@@ -10,7 +10,7 @@ quiz rules, score calculation, and a results display.
 
 ## Technologies Used
 - Java
-- Java Swing / AWT (if used)
+- Java Swing 
 - Object-Oriented Programming
 
 ## Project Files
